@@ -184,7 +184,15 @@
   </url>
   
   <url>
+    <loc>https://ntunlpsg.github.io/AI6127-deep-nlp-20/authors/1.joty/</loc>
+  </url>
+  
+  <url>
     <loc>https://ntunlpsg.github.io/AI6127-deep-nlp-20/authors/1.tasnim/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/AI6127-deep-nlp-20/authors/2.jjkim/</loc>
   </url>
   
   <url>
@@ -201,10 +209,6 @@
   
   <url>
     <loc>https://ntunlpsg.github.io/AI6127-deep-nlp-20/authors/8.-lin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ntunlpsg.github.io/AI6127-deep-nlp-20/authors/joty/</loc>
   </url>
   
   <url>
@@ -234,6 +238,16 @@
   
   <url>
     <loc>https://ntunlpsg.github.io/AI6127-deep-nlp-20/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/AI6127-deep-nlp-20/authors/jjkim/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/AI6127-deep-nlp-20/authors/joty/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
